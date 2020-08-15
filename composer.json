@@ -1,7 +1,7 @@
 {
-	"name": "syscodes/encryption",
-	"description": "The Syscodes Encryption package.",
-	"keywords": ["lenevor","encryption"],
+	"name": "syscodes/config",
+	"description": "The Syscodes Config package.",
+	"keywords": ["lenevor","config"],
 	"license": "BSD-3-Clause",
 	"homepage": "https://lenevor.com",
 	"support": {
@@ -21,7 +21,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Syscodes\\Encryption\\": ""
+			"Syscodes\\Config\\": ""
 		}
 	},
 	"minimum-stability": "dev",
